@@ -1,0 +1,5 @@
+1)pip3 freeze to show all the installed library
+2)python3 -m venv ./venv to install a virtual environment in that directory
+3)Run Activate command:-call ./venv/Scripts/activate.bat
+4)./venv/Scripts/activate.bat
+5)ctrl+shift=p 
